@@ -1,13 +1,9 @@
 # Overview
 
-## EDA / Modeling
+## Links
 
-- [Repo](https://github.com/Boram3J/image-editing)
-
-## Client
-
-- [Repo](https://github.com/Boram3J/client)
-
-## Server
-
-- [Repo](https://github.com/Boram3J/server)
+주제|링크
+----|----
+EDA / Modeling|[이동](https://github.com/Boram3J/image-editing)
+Client|[이동](https://github.com/Boram3J/client)
+Server|[이동](https://github.com/Boram3J/server)
